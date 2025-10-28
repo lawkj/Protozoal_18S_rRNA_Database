@@ -1,6 +1,5 @@
-# Removing redundancy in ciliate 18S dataset
+# Creating A Curated Database of Rumen Protozoal 18S rRNA Gene Sequences for Metataxonomic Applications
 
-This is the README for the directory that contains the code and intermediary files used to get v1.0.0 of the ciliate 18S dataset.
 
 ## Data acquisition
 
@@ -86,3 +85,4 @@ ciliate_tax_ref_ID_v001.fasta
 Other formats will be made available soon...
 
 Where new sequence data is published we will endure to update the database.
+
