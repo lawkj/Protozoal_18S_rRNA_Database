@@ -1,22 +1,11 @@
 # Creating A Curated Database of Rumen Ciliate Protozoal 18S rRNA Gene Sequences for Metataxonomic Applications
 
-
-We provide a Rumen Ciliate Protozoal 18S rRNA gene sequences database as a resource for researchers aiming to improve taxonomic resolution of protozoal communities in rumen environments.
-
-## Note to users
-When new sequence data becomes available, we will make every effort to update the database accordingly.
-We also welcome user feedback on ways to improve the database, including suggestions for additional data sources that are not yet included.  
-
-If you use this database we would appreciate you cite us as:
-Data note submitted for peer review
-
-## Current Release
 v1.0.0.  
 Release date: 11 November 2025
 
 The curated dataset comprises 228 rumen ciliate protozoal 18S rRNA gene sequences sourced from publicly available datasets.   
 Sequences were processed to remove redundancy and standardise naming.   
-The final database spans 23 families, 53 genera, and 100 species, and is suitable for use in metataxonomic pipelines, including QIIME2.   
+The final database spans 23 families, 53 genera, and 100 species, and is suitable for use in metataxonomic pipelines, including QIIME2. 
 
 ## Data acquisition
 
@@ -130,4 +119,7 @@ We also provide a pre-trained Naive Bayes classifier compatible with QIIME2 and 
 `2024.10.RumenProtozoaDBv.1.0.0.18S.blastdb.qza`  
 
 
+## Note to users
+When new sequence data becomes available, we will make every effort to update the database accordingly.  
+We also welcome user feedback on ways to improve the database, including suggestions for additional data sources that are not yet included.
 
