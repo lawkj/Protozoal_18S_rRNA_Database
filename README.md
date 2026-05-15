@@ -8,7 +8,7 @@ When new sequence data becomes available, we will make every effort to update th
 We also welcome user feedback on ways to improve the database, including suggestions for additional data sources that are not yet included.  
 
 If you use this database we would appreciate you cite us as:
-Data note submitted for peer review
+Lawther, K., Tapio, I., Vera-Ponce de León, A. et al. A curated database of rumen ciliate protozoal 18S rRNA gene sequences for metataxonomic applications. BMC Genom Data 27, 29 (2026). https://doi.org/10.1186/s12863-026-01420-y
 
 ## Current Release
 v1.0.0.  
